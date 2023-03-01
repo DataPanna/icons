@@ -8,3 +8,4 @@ The following are links to some well-known logos. Take care to respect the licen
 - [Python](https://www.python.org/community/logos/)
 - [Go](https://go.dev/blog/go-brand/Go-Logo/PNG/)
 - [NGINX](https://commons.wikimedia.org/wiki/File:Nginx_logo.svg)
+- [VueJS](https://github.com/vuejs/art)
